@@ -1,6 +1,6 @@
 TadhgsLinter
 
-This collection of js files is the result of me methodically going through every single supported tslint rule and including in here with appropriate warning level and comments on rational for why.
+This collection of js files is the result of me methodically going through all 157 supported tslint rule and including in here with appropriate warning level and comments on rational for why.
 
 The only rules listed in https://palantir.github.io/tslint/rules/ that are not included somewhere in this are:
 
