@@ -1,5 +1,7 @@
 TadhgsLinter
 
+# DEPRECATED see [reactSandbox/eslintrc_modular](https://github.com/tadhgmister/reactSandbox/tree/master/.eslintrc_modular) as replacement
+
 This collection of js files is the result of me methodically going through all 157 supported tslint rule and including in here with appropriate warning level and comments on rational for why.
 
 The only rules listed in https://palantir.github.io/tslint/rules/ that are not included somewhere in this are:
